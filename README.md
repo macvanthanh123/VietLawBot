@@ -3,6 +3,23 @@
 VietLawBot — trợ lý chat pháp luật tiếng Việt, hỗ trợ tra cứu điều luật, giải thích ngôn ngữ pháp lý và soạn thảo văn bản cơ bản. README này được chia làm rõ ràng: Backend (FastAPI) và hai lựa chọn Frontend (Streamlit — Python UI, hoặc Web UI bằng npm — React/Vite/...).
 
 ---
+### Kiến trúc hệ thống
+<img src="img\Screenshot 2025-12-26 225122.png" alt="Kiến trúc hệ thống" width="1170"/>
+
+## 📸 Demo Giao Diện
+
+### 1. Giao diện Chatbot (User Interface)
+*Nơi người dùng đặt câu hỏi và nhận tư vấn từ AI. Giao diện được tối ưu hóa cho trải nghiệm đọc hiểu văn bản luật.*
+
+![Giao diện Chatbot](img/8b636b5cfb6e74302d7f.jpg)
+*(Lưu ý: Đảm bảo bạn đã upload ảnh vào thư mục `img` trong repo)*
+
+### 2. Giao diện Cấu hình Hệ thống (Admin/Config Dashboard)
+*Bảng điều khiển dành cho quản trị viên để thiết lập luồng xử lý (Flow), tinh chỉnh tham số mô hình và quản lý kết nối API.*
+
+![Giao diện Config](img/4fc2a9fd39cfb691efde.jpg)
+
+---
 
 ## Mục lục
 - [Tổng quan](#tổng-quan)
