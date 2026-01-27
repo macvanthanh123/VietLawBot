@@ -186,8 +186,3 @@ Sau đó mở: http://localhost:3000 (hoặc cổng dev server được project 
 ## Liên hệ
 Maintainer: macvanthanh123
 
----
-
-Nếu bạn muốn, mình có thể:
-- Chỉnh README theo project frontend thực tế trong `web/` (ví dụ package.json, scripts, port).
-- Viết Dockerfile/Docker Compose mẫu tương thích với cấu trúc repo của bạn — gửi cho mình nội dung `docker-compose.yml`, `web/package.json`, hoặc `web/vite.config.js` để mình tạo cấu hình chuẩn.
